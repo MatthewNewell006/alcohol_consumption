@@ -1,4 +1,4 @@
-# capstone-1-reccommender-system
+# capstone-1-recommender-system
 Creating a Recommendation System
 
 
