@@ -8,5 +8,6 @@ Thought of as a subclass of information filtering systems, recommender systems l
 
 
 <p style="text-align:center;"><img src="https://github.com/MatthewNewell006/capstone-1-recommender-system/blob/master/recommendation_system.gif" alt="Logo"></p>
+<img src="https://github.com/MatthewNewell006/capstone-1-recommender-system/blob/master/recommendation_system.gif" class="centerImage" alt="Logo"/>
 
   
