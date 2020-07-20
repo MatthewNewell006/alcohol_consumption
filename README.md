@@ -4,7 +4,7 @@ Creating a Recommendation System
 
 
 
-<img src="https://github.com/MatthewNewell006/capstone-1-recommender-system/blob/master/recommendation_system.gif" class="centerImage" alt="Logo"/><br>
+# <img src="https://github.com/MatthewNewell006/capstone-1-recommender-system/blob/master/recommendation_system.gif" class="centerImage" alt="Logo"/><br>
 
 
 
