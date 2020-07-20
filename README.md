@@ -1,14 +1,6 @@
-# capstone-1-recommender-system                                                       
-Creating a Recommendation System
+# capstone-1-alcohol-consumption                                                     
+Correlating Alcohol Consumption within Cold and Warm climates
 
-
-
-
-# <img src="https://github.com/MatthewNewell006/capstone-1-recommender-system/blob/master/recommendation_system.gif" class="centerImage" alt="Logo"/><br>
-
-
-
-
-Thought of as a subclass of information filtering systems, recommender systems look to predict the best "rating" or "preference" a person would give. As such these systems optimize objectives like "total clicks", "total revenue", and "overall sales", to "recommend" related items and options based on user input. Say someone gave a high rating to a particular item online, or revisited a particular item or site. Utilizing data of that persons online presence and actions, I will build a system that will in turn "recommend" related items, places of interest, etc. back to that person.
+From cocktails to craft brews, the "art of the drink" is a way of life for some, a pitfall for others, but coveted by many. Where is the line bewteen creation and consumption? What allows some to maintian a responsible approach to alcohol while others simply lose themelves in it? I wil be looking into the rate of consumptions in both warm and cold climates, to see if it's simply a matter of geographical location or not. Comparing regions with higher consumption rates, against the quality of life in those regions, does one effect the other? Is it the other way around? Is it simply a matter of being too hot or too cold? I will attempt to hash out some of these questions.
 
   
