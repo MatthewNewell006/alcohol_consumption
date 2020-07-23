@@ -1,0 +1,36 @@
+
+
+4.3 Gaussian Distribution and Reference Range
+Gaussian distribution (also known as normal distribution) is a bell-shaped curve, and it is assumed that during any measurement values will follow a normal distribution with an equal number of measurements above and below the mean value. In order to understand normal distribution, it is important to know the definitions of “mean,” “median,” and “mode.” The “mean” is the calculated average of all values, the “median” is the value at the center point (mid-point) of the distribution, while the “mode” is the value that was observed most frequently during the measurement. If a distribution is normal, then the values of the mean, median, and mode are the same. However, the value of the mean, median, and mode may be different if the distribution is skewed (not Gaussian distribution). Other characteristics of Gaussian distributions are as follows:
+
+▪
+Mean±1 SD contain 68.2% of all values.
+
+▪
+Mean±2 SD contain 95.5% of all values.
+
+▪
+Mean±3 SD contain 99.7% of all values.
+
+A Gaussian distribution is shown in Figure 4.1. Usually, reference range is determined by measuring the value of an analyte in a large number of normal subjects (at least 100 normal healthy people, but preferably 200–300 healthy individuals). Then the mean and standard deviations are determined.
+
+
+Sign in to download full-size image
+Figure 4.1. A Gaussian distribution showing percentage of values within a certain standard deviation from the mean.
+
+(Courtesy of Andres Quesda, M.D., Department of Pathology and Laboratory Medicine, University of Texas-Houston Medical School.)
+The reference range is the mean value −2 SD to the mean value +2 SD. This incorporates 95% of all values. The rationale for reference range to be the mean±2 SD is based on the fact that the lower end of abnormal values and upper end of normal values may often overlap. Therefore, mean±2 SD is a conservative estimate of the reference range based on measurement of the analytes in a healthy population. Important points for reference range include:
+
+▪
+Reference range may be the same between males and females for many analytes, but reference range may differ significantly between males and females for certain analytes such as sex hormones.
+
+▪
+Reference range of an analyte in an adult population may be different from infants or elderly patients.
+
+▪
+Although less common, reference range of certain analytes may be different between different ethnic populations.
+
+▪
+For certain analytes such as glucose, cholesterol, triglycerides, high-density and low-density cholesterol, etc., there is no reference range but there are desirable ranges which are based on the study of a large population and risk factors associated with certain values of analytes (e.g. various lipid parameters and risk of cardiovascular diseases).
+
+Although many analytes in the normal population when measured follow normal distribution, not all analytes follow that pattern (e.g. cholesterol and triglycerides). In this case distribution is skewed and, as expected, mean, median, and mode values are different.
