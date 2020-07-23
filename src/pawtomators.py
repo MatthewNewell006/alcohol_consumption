@@ -22,6 +22,7 @@ class Pawtomators():
     """Initialize automator class"""
     def __init__(self, filename):
         self.filename = filename
+        self.name = ''
 
     def bringin(self):
         ''' Read in a file'''
@@ -46,8 +47,11 @@ class Pawtomators():
         # pd.to_csv()
         pass
 
-    def dcol(self):
-        '''Drop column'''
+    def dcol_1(self, name):
+        '''Drop First Column'''
+        self.name = name
+        # df = pd.drop(columns = [self.name])
+        # return df
         pass
 
     def dcols(self):
@@ -81,14 +85,14 @@ class Pawtomators():
         pass
 
 
-if __name__ == "__main__": 
-    print("\nExecuted when invoked directly\n")
+if __name__ == "__main__":
+
+    print("\nExecuted Directly\n")
 else: 
     print("Executed when imported")
 
 
-filename = '../data/modified/2015_alcohol_stats.csv'
+# filename = '../data/modified/2015_alcohol_stats.csv'
+# df = Pawtomators(filename)
 
-df = Pawtomators(filename)
-
-print(df.bringin())
+# print(df.dcol_1('Jane'))
