@@ -1,0 +1,163 @@
+As you work on your capstones and readmes, some general comments. This exploded in size, so manage your time appropriately if you want to work on all these points. The first goal is the MVP, minimum viable product. Once you have an analysis completed from beginning to end on one or two variables, or with a baseline model, then go back and do more. Add more variables. Add more tests. Add more models. Tweak more settings. Address more data problems.:
+(there might be typos, sorry)
+(outline)
+
+
+CAPSTONE RUBRIC
+TIME MANAGEMENT
+PLOTTING
+EDA
+SAMPLE/POP
+MISSING DATA
+HYPOTHESIS TESTS
+GITHUB
+README
+OTHER NICE THINGS
+CAPSTONE RUBRIC
+
+
+Check out the Capstone 1 assessment for guidance on how to organize your code and what to include in your final READMEs. DON'T SUBMIT IT YET. (https://learn-2.galvanize.com/cohorts/2066/blocks/115/content_files/capstone-1.md?assessment=true)
+
+
+TIME MANAGEMENT
+
+
+Manage your time. On Friday morning you should only be working on your READMEs and rehearsing your presentation (nobody is going to enforce this but don't do any substantial coding work on Friday. only tweaking plots.)
+
+
+PLOTTING
+
+
+Fixing your plots can take a lot of time. Make sure you have the basic elements. Titles, axis labels, legends where appropriate.
+As you go through the immersive, get more comfortable with fig, ax = plt.subplots() ax. ax. ax.
+instead of plt. plt. plt. The Matplotlib website has tons of code examples in their documentation.
+
+
+EDA
+
+
+Have at least 2 EDA (exploratory data analysis) plots (come back and make more if time allows)
+
+
+       The reader doesn't know what your data set looks like, and you DON'T want to show them the raw data because it is confusing. Plots will highlight things in the data set that you want the reader to know about. Always think: Will seeing this plot about the data help my reader understand my project better? Will it help summarize some interesting things I see in my data? Maybe you want to show off some distributions of individual features. Maybe you want to show off some scatter plots of relationships between two features. Maybe you want to show off some correlation heatmaps. Boxplots, Maybe you want a Top 10 list. Etc. NO PIE CHARTS.
+
+
+Maybe you want to show the reader some rows of your data set. BUT ONLY IF IT HELPS THE READER TO UNDERSTAND THE ANALYSIS YOU DO LATER. Throwing raw data at the reader can be confusing.
+
+
+Make sure your plots are not too 'busy'. Don't include too many series on a line plot. Don't include too many categories on a bar chart. Don't include too many items on a correlation heatmap. Depending on the plot, you really can only show maybe 2-10 things. Use your judgement. Also pay attention to the ordering of labels when you use legends. On a line plot, does the 'top' line correspond to the top label in the legend?
+
+
+If points on your plot appear 'squished' -- you have a lot of small values clustered together and a few outliers and you want to zoom in on the cluster and not the outliers: investigate plt.xscale() plt.yscale() ax.set_xscale() ax.set_yscale() and try the 'log' setting. This will plot points on a logarithmic scale and spread out the smaller values.
+
+
+SAMPLE/POP
+
+Is your data set a sample or a population? Is it data from everybody/everything? Or not? If you have population data that's great but all the hypothesis tests below are unnecessary. For the purposes of this capstone, take a random sample of the population and continue.
+MISSING DATA
+(Come back to this if time allows)
+
+
+3:36
+
+
+Do the features you are focusing on have a lot of missing values? Are you going to throw away those rows? You need to investigate if the missing values are Missing Completely at Random (MCAR), Missing at Random (MAR), or Missing Not at Random (MNAR).
+MCAR means there seems to be no pattern to why the values are missing. Maybe the recording equipment fails randomly. Maybe there are random data entry errors and omissions
+
+
+MAR means that within a grouping/category of the data, the values are missing completely at random.
+MNAR is a big problem. Are the values missing in a specific year? Are the values missing during the day. Are the values missing in a specific region?
+The pattern of missingness will affect the conclusions you can make. When you are dropping rows because they are MCAR or MAR, then your sample is still representative of some population, and you can connect insights from your data set to claims about the population.
+If the data are MNAR, after dropping rows, your data is no longer representative of the population, so your claims about the population have to be more specific. You are making claims about day now, because night is missing. You are making claims about some areas, because others are missing, etc.
+Liberally, if less than 10% of the values in the feature are missing, you are okay. If a larger percentage are missing, make a note of that to the reader and whether you discarded the rows or tried to impute the missing values and continue with your analysis.
+
+
+HYPOTHESIS TESTS
+
+
+Mann-Whitney U test for whether the shape of the distributions is the same when you have ordinal or continuous variables (good choice because there are very few assumptions. IF THE SHAPE OF THE DISTRIBUTIONS OF THE TWO SAMPLES IS SIMILAR--PLOT IT AND CALCULATE IF THERE IS SIMILAR VARIANCE--THEN YOU CAN INTERPRET IT AS A DIFFERENCE IN MEDIANS)
+
+
+2 sample z-tests for a difference in proportions.
+
+
+Chi-square test of independence (scipy.stats.chi2_contingency). Whether two categorical variables are associated. The values in the contingency table aka cross table aka pivot table will be counts/frequencies. The expected value (see documentation) that is returned should have NO VALUES <5.
+Spearman correlation tests to see if there is a rank association between variables.
+
+
+https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/
+
+
+Report the sample sizes, the p-value rounded to 3 decimal places, and the correlation/mean difference/median difference reported to 3 decimal places.
+Instead of just reporting the correlation/difference above, report a 95% confidence interval. Make a ticket.
+You can use 2 sample t-tests but there are more settings and assumptions that you need to make sure you are using correctly. Make a ticket.
+You can use bootstrapping to investigate some of the same questions as the above hypothesis tests. Make a ticket.
+GITHUB
+
+
+Hey a lot of junk is getting pushed to GitHub and I don't want it there!
+to prevent uploading .DS_Store .vscode and maybe your data/ directory every time you git push , consider adding a .gitignore file to your directory.
+Literally create a file called .gitignore and paste in all the code from https://github.com/github/gitignore/blob/master/Python.gitignore and if you want to ignore the files above then add a new line with those things
+
+
+#ignore mac system file
+.DS_Store
+
+#ignore my data folder bc the data is really big and uploads slow
+data/
+
+#ignore the files that VSCode makes
+.vscode
+
+Then from now on, when changes are made on your local computer to the files and directories in the .gitignore, the changes will not be pushed to GitHub.
+If you want to remove those same things that already exist on GitHub then follow below
+
+
+Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+Show more
+<https://github.com/github/gitignore|github/gitignore>github/gitignore | Added by GitHub
+:heart:
+3
+:1000:
+1
+
+3:36
+- do a git pull
+-  move those appropriate files and directories out of your folder and put them somewhere else you remember
+- git status will now reflect that those files and directories were deleted
+- git add  git commit  git push so the files and directories will be removed from GitHub
+- move the files and folders back into your local folder
+- from now on, those files and folders should not be being pushed to GitHub BECAUSE YOU ADDED LINES TO YOUR .gitignore
+
+README
+
+Change the repo name to something descriptive. Don't call it Galvanize Capstone 1, or Capstone 1, or Project 1. This is YOUR project. Don't unknowingly give the impression that it was a highly structured, hand-holding project. You are and will be doing all the work yourself.
+
+Think of the README like a long blog post. It doesn't need to be like a formal report and it shouldn't be too casual and conversational. Potential employers may visit your GitHub and read your README to see how well you analyze data, communicate findings, and maybe your product mindset (were the questions you asked interesting? was there some overall focus to your project?)
+
+Employers know you are new to the field. Don't remind them of that. Don't say you want to work at a company to practice and learn. Say you want to work there because you want to contribute your skills to their specific problems (and also you're interested in the problems they work on). Don't mention in your README that you are practicing skills or anything like that. You are a data scientist. The README is your analysis of a data set and interesting conclusions or results.
+
+No screenshots please. Use plt.savefig() to save images in Matplotlib. If your saved figures are being cut-off, investigate the tight_layout method or argument (depends if you are using the fig, ax ax. ax. ax.  or plt. plt. plt. convention. There are other options that also handle things getting cut-off. Google is your friend.
+
+Use copy paste and online websites to convert output tables to markdown syntax tables. You might have to export a small table view to csv in order to copy-paste things more easily to the website.
+You can insert codeblocks in markdown like so:
+```python
+
+some python code
+```
+```sql
+some sql code
+```
+and it will render with appropriate font and color-highlighting
+
+
+OTHER NICE THINGS
+
+
+When you describe your data set to the reader, maybe it is helpful to list the columns of interest with their variable name and some more descriptive explanation of the variable. Don't list all the variables. Just the ones of interest. Maybe you don't need a list, maybe you can just summarize it in a paragraph. Your choice.
+Maybe list the assumptions you are making when you do tests and when you choose data. For example, if you want to make claims about songs, you are assuming you have some representative sample of songs people like. Maybe you need to be more specific. You only have songs young people like. You only have songs Americans like. Always think about what data you have and to whom or to what you can generalize it. Do you have an American data set? Can you make statements globally?
