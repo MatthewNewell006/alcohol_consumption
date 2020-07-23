@@ -3,9 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 
-'''
 
-us_state_abbrev = {
+""" us_state_abbrev = {
 'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR', 'california': 'CA', 'colorado': 'CO',
 'connecticut': 'CT', 'delaware': 'DE', 'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
 'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS', 'kentucky': 'KY', 'louisiana': 'LA',
@@ -14,16 +13,15 @@ us_state_abbrev = {
 'new mexico': 'NM', 'new york': 'NY', 'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK',
 'oregon': 'OR', 'pennsylvania': 'PA', 'phode island': 'RI', 'south carolina': 'SC', 'south dakota': 'SD',
 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT', 'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA',
-'west virginia': 'WV', 'wisconsin': 'WI', 'wyoming': 'WY'}
+'west virginia': 'WV', 'wisconsin': 'WI', 'wyoming': 'WY'} """
 
-'''
 
 class pawtomators():
     """Initialize automator class"""
-    def __init_self(self, ext, file_path):
+    def __init_self(self):
         pass
 
-    def bringin(self):
+    def bringin(self, ext, file_path):
         ''' Read in a file'''
         
         # if str(ext) == 'csv':
