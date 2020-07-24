@@ -19,20 +19,20 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 
 As it turns out turns out, liquor sales do go up in warmer temperatures. A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°.  
 <h3>Correlation Testing: Drink Consumption</h3>
-<p float="left">
+
 <br><br>
 <h3>Beer</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
-<br><br>
+
 <h3>Wine</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_wine_gallons.jpg" width="50%" height="50%">
-<br><br>
+
 <h3>Shot</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_shot_gallons.jpg" width="50%" height="50%">
-<br><br>
+
 <h3>Annual</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
-<br><br></p>
+<br><br>
 
 <br><br>
 <h3>PDF</h3>
