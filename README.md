@@ -12,7 +12,6 @@ The process of finding adequate data to compare how temperature effects liquor s
 <br><br>
 The data still had some areas of no record. I'm not sure where this inconsisitency came from. There were 17 missing cells in May. Of course I still had 250 entries that still allowed me to continue with goal. 
 
-<h3>Difference in Consumtion</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
 
@@ -20,7 +19,7 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 
 As it turns out turns out, liquor sales do go up in warmer temperatures. A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°.  
 <h3>Correlation Testing: Drink Consumption</h3>
-
+<p float="left">
 <br><br>
 <h3>Beer</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
@@ -33,7 +32,7 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 <br><br>
 <h3>Annual</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
-<br><br>
+<br><br></p>
 
 <br><br>
 <h3>PDF</h3>
