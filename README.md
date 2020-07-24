@@ -20,13 +20,14 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="45%" height="45%">
 <br><br>
-
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_wine_gallons.jpg" width="45%" height="45%">
 <br><br>
-
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_shot_gallons.jpg" width="45%" height="45%">
+<br><br>
+<br><br>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="45%" height="45%">
 <br><br>
 
 <h3>Correlation Testing: Drink Consumption</h3>
