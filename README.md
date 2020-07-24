@@ -5,4 +5,4 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 <br>
 
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="50" height="50">
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="75%" height="75%">
