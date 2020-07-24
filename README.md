@@ -34,7 +34,6 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
 <br><br>
 
-<br><br>
 <h3>PDF</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
 <ul>Using a Probability Density Function, I was able to show the distribution of this information which is in fact a Normal Distribution.</ul>
