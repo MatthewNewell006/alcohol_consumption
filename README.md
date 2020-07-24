@@ -16,6 +16,9 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
 
+<br><br>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
+<br><br>
 
 <br><br>
 
