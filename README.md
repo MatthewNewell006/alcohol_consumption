@@ -5,6 +5,6 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 <br>
 
-![test image size](https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg?raw=true "Title"{:height="50%" width="50%"})
+![test image size](https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg?raw=true)
 
 
