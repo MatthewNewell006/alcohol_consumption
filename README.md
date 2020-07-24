@@ -18,9 +18,10 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 <h3>Analysis</h3>
 
 <li>A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°</li>  
+<br><br>
+
 <h3>Correlation Testing: Drink Consumption</h3>
 
-<br><br>
 <h3>Beer</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
 
@@ -36,7 +37,7 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 
 <h3>PDF</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
-<ul>Using a Probability Density Function, I was able to show the distribution of this information which is in fact a Normal Distribution.</ul>
+<li>Probability Density Function shows that the information suggests a Normal Distribution.</li>
 
 <h3>Corellation Significance</h3>
 
