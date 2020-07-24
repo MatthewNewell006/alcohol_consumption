@@ -10,7 +10,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 The process of finding adequate data to compare how temperature effects liquor sales was daunting. The information was spoty at best across multiple data sites like Kaggle and Data.Gov. I found a lot of insufficient data and most of it pertained to a global parsing. I was looking for something pertaining to the United States. I finally found info that I was looking for. The closest year I could find to align properly, was for 2015. Once I had what I was looking for, I proceeded to streamline it best I could. Originaly I was going to compare amount of sales against temperatures in every state. However looking for a munging took up most of the time to simply attain a solid comoparison. Below is a comparison of the number of drinks that were sold in the year 2015.
 <br><br>
-<li>There were 17 missing cells in May. Not sure why there was this gap but still had 250 observations to continue analysis.</li>
+<li>There were 17 missing cells in May. Fortunately They were in the middle of the month so I was able to average the first part and last part of May and fill these missing areas with an average of averages.</li>
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
