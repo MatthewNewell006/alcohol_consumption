@@ -38,7 +38,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="50%" height="50%">
 <br><br>
 
-<h3>PDF</h3>
+<h3>PLotting the PDF</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
 <li>Probability Density Function shows that the information suggests a Normal Distribution.</li>
 
