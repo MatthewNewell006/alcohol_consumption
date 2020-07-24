@@ -22,19 +22,24 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 
 <br><br>
 <h3>Beer</h3>
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="45%" height="45%">
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
 <br><br>
 <h3>Wine</h3>
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_wine_gallons.jpg" width="45%" height="45%">
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_wine_gallons.jpg" width="50%" height="50%">
 <br><br>
 <h3>Shot</h3>
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_shot_gallons.jpg" width="45%" height="45%">
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_shot_gallons.jpg" width="50%" height="50%">
 <br><br>
 <h3>Annual</h3>
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="45%" height="45%">
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
 <br><br>
 
+<br><br>
+<h3>PDFn</h3>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
+<br><br>
 
+<h3>Corellation Significance</h3>
 
 | Spearmanr: Number of Gallons |
 | --- |
