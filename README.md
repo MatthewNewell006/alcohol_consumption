@@ -9,15 +9,15 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 <h3>Data Mining</h3>
 
 The process of finding adequate data to compare how temperature effects liquor sales was daunting. The information was spoty at best across multiple data sites like Kaggle and Data.Gov. I found a lot of insufficient data and most of it pertained to a global parsing. I was looking for something pertaining to the United States. I finally found info that I was looking for. The closest year I could find to align properly, was for 2015. Once I had what I was looking for, I proceeded to streamline it best I could. Originaly I was going to compare amount of sales against temperatures in every state. However looking for a munging took up most of the time to simply attain a solid comoparison. Below is a comparison of the number of drinks that were sold in the year 2015.
-<br><br>
 
 <hr>
 
 <li>There were 17 missing cells in May. Fortunately They were in the middle of the month so I was able to average the first part and last part of May and fill these missing areas with an average of averages.</li>
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
-<br><br>
+
 <hr>
+
 <h3>Analysis</h3>
 
 <li>A closer inspection reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°</li>  
@@ -44,13 +44,13 @@ The process of finding adequate data to compare how temperature effects liquor s
 <h3><ul>Spike in Consumption</ul></h3>
 <li>Study showed that more shots was consumed at low temperatures, while wine peaked at mid to lower temperatures and beer spiking in higher temperatures</li>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="50%" height="50%">
-<br><br>
 
 <h3>PLotting the PDF</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
 <li>Probability Density Function shows that the information suggests a Normal Distribution.</li>
-<br><br>
+
 <hr>
+
 <h3>Corellation Significance</h3>
 
 | Spearmanr: Number of Gallons |
@@ -81,7 +81,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 
 <b>Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.</b>
 
-<br><br>
 <hr>
+
 <h3>Conclusion</h3>
 After working thhrough the data, I have found that people do in fact tend to drink more alcohol in warmer temperatures. Given more time I would use my findings and further my analysis into how this compares against geographical locations. I still have quesitons about the quality of life in areas with warmer and colder temps. Knowing what I've learned from the dataset, I would hope to find if there is a correlation between alcohol consumption and the standard of living in these areas. Deducing a different approach for people to consider when contemplating questions like where would be a good place to move.
