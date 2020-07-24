@@ -9,17 +9,20 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 <b>Data Mining</b>
 <br><br>
 
-The process of finding adequate data to compare how temperature effects liquor sales was daunting. The information was spoty at best across multiple data sites like Kaggle and Data.Gov. I found a lot of insufficient data and most of it pertained to a global parsing. I was looking for something pertaining to the United States. I finally found info that I was looking for and proceeded to streamline it best I could. Originaly I was going to compare amount of sales against temperatures in every state. However looking for a munging took up most of the time to simply attain a solid comoparison.
+The process of finding adequate data to compare how temperature effects liquor sales was daunting. The information was spoty at best across multiple data sites like Kaggle and Data.Gov. I found a lot of insufficient data and most of it pertained to a global parsing. I was looking for something pertaining to the United States. I finally found info that I was looking for. The closest year I could find to align properly, was for 2015. Once I had what I was looking for, I proceeded to streamline it best I could. Originaly I was going to compare amount of sales against temperatures in every state. However looking for a munging took up most of the time to simply attain a solid comoparison. Below is a comparison of the number of drinks that were sold in the year 2015.
+<br><br>
+The data still had some areas of no record. I'm not sure where this inconsisitency came from. There were 17 missing cells in May. Of course I still had 250 entries that still allowed me to continue with goal. 
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
 
 
-
-| Organize  |
-| --- |
 <br><br>
 
+<br><br>
+
+
+<br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
 
