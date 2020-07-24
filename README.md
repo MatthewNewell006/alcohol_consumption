@@ -69,4 +69,17 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 
 Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.
 
-
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
