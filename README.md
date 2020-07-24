@@ -38,7 +38,8 @@ The process of finding adequate data to compare how temperature effects liquor s
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
 <br><br>
 
-<h3>Spike in Consumption</h3>
+<h3><ul>Spike in Consumption</ul></h3>
+<li>Study showed that more beer was consumed at higher temperatures, while shot peaked at lower temperatures, with wine spiking in average temperatures</li>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="50%" height="50%">
 <br><br>
 
