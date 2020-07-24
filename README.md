@@ -5,13 +5,15 @@
 
 From cocktails to craft brews, the "art of the drink" is a way of life for some, a pitfall for others, but coveted by many. Where is the line bewteen creation and consumption? What allows some to maintian a responsible approach to alcohol while others simply lose themelves in it? I wil be looking into the rate of consumptions in both warm and cold climates. Do the "dog days of summer" attribute to the mentality of "cracking open a cold one"? Or does life in cooler regions make you want to bundle up and get down? Here I will being taking a look at alcohol consumption at different temperatures to see if there is a pattern.
 
+|   |
+| - |
 <br><br>
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="45%" height="45%">
 
 <br><br>
 
-<h1>Correlation Testing: Drink Consumption</h1>
+<h3>Correlation Testing: Drink Consumption</h3>
 
 | Spearmanr: Number of Gallons |
 | --- |
@@ -22,8 +24,6 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 | Correlation (Shots): -0.22470174841968737 |
 | Pvalue (Shots): 0.0003519710919161753 |
 
-<br><br>
-
 | MannWhitneyU: Number of Drinks |
 | --- |
 | Statisitc (Beer): 0.0 |
@@ -33,13 +33,11 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 | Statisitc (Shots): 929.0 |
 | Pvalue (Shots): 1.2869623103039633e-78 |
 
-<br><br>
-
 | Pearsonr: Number of Drinks |
 | --- |
 | Beer: (0.03879235442721353, 0.5423373090312318) |
 | Wine: (-0.28972604526774554, 3.337259516630482e-06) |
 | Shots: (-0.4066398894076336, 2.4714372269605796e-11) |
 
-
+<br><br>
 
