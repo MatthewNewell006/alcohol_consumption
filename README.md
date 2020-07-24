@@ -70,10 +70,9 @@ The process of finding adequate data to compare how temperature effects liquor s
 | Wine: (-0.28972604526774554, 3.337259516630482e-06) |
 | Shots: (-0.4066398894076336, 2.4714372269605796e-11) |
 
-<br><br>
-
 Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.
 
+<br><br>
 
 <h3>Conclusion</h3>
 After working thhrough the data, I have found that people do in fact tend to drink more alcohol in warmer temperatures. Given more time I would use my findings and further my analysis into how this compares against geographical locations. I still have quesitons about the quality of life in areas with warmer and colder temps. Knowing what I've learned from the dataset, I would hope to find if there is a correlation between alcohol consumption and the standard of living in these areas. Deducing a different approach for people to consider when contemplating questions like where would be a good place to move.
