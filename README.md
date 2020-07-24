@@ -14,6 +14,6 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 | MannWhitneyU | Pearsonr | Spearmanr | Description |
 | --- | --- | --- | --- |
-| Beers Annually: | List all new or modified files | git status | List all new or modified files |
-| git status | List all new or modified files | git status | List all new or modified files |
+| Statisitc | Statistic | Statisitc | Statistic |
+| Pvalue | Pvalue | Pvalue | Pvalue |
 
