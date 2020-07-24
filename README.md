@@ -11,9 +11,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 <br><br>
 
-<b>Correlation Testing: Drink Consumption</b>
-
-<br><br>
+<h1>Correlation Testing: Drink Consumption</h1>
 
 | Spearmanr: Number of Gallons |
 | --- |
