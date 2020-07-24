@@ -21,16 +21,16 @@ The process of finding adequate data to compare how temperature effects liquor s
 
 <h3>Correlation Testing: Drink Consumption</h3>
 
-<h3><ul>Beer</ul></h3>
+<h3><ul>Beer; Total Drinks/Gallons/Average Gallons Per Capita: 443.26, 1.87, 1.17</ul></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
 
-<h3><ul>Wine</ul></h3>
+<h3><ul>Wine; Total Drinks/Gallons/Average Gallons Per Capita: 226.27, 1.14, 1.95</ul></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_wine_gallons.jpg" width="50%" height="50%">
 
-<h3><ul>Shot</ul></h3>
+<h3><ul>Shot; Total Drinks/Gallons/Average Gallons Per Capita: 404.87, 1.14, 0.87</ul></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_shot_gallons.jpg" width="50%" height="50%">
 
-<h3><ul>Annual</ul></h3>
+<h3><ul>Annual; Drinks/Gallons: 1002.67, 4.7</ul></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
 <br><br>
 
