@@ -33,7 +33,9 @@ The process of finding adequate data to compare how temperature effects liquor s
 <h3><ul>Annual</ul></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="50%" height="50%">
 <br><br>
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="45%" height="45%">
+
+<h3><li>Spike in Consumption</li></h3>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="50%" height="50%">
 <br><br>
 
 <h3>PDF</h3>
