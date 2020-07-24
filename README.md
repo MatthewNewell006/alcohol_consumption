@@ -39,7 +39,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 <br><br>
 
 <h3><ul>Spike in Consumption</ul></h3>
-<li>Study showed that more shots was consumed at lower temperatures, while wine peaked at average temperatures and beer spiking in higher temperatures</li>
+<li>Study showed that more shots was consumed at low temperatures, while wine peaked at mid to lower temperatures and beer spiking in higher temperatures</li>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="50%" height="50%">
 <br><br>
 
