@@ -9,6 +9,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="45%" height="45%">
 
+<br><br>
 
 <b>Correlation Testing: Drink Consumption</b>
 
@@ -23,6 +24,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 | Correlation (Shots): -0.22470174841968737 |
 | Pvalue (Shots): 0.0003519710919161753 |
 
+<br><br>
 
 | MannWhitneyU: Number of Drinks |
 | --- |
@@ -33,6 +35,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 | Statisitc (Shots): 929.0 |
 | Pvalue (Shots): 1.2869623103039633e-78 |
 
+<br><br>
 
 | Pearsonr: Number of Drinks |
 | --- |
