@@ -15,7 +15,10 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 
+<h3>Analysis</h3>
 
+As it turns out turns out, liquor sales do go up in warmer temperatures. A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°.  
+<h3>Correlation Testing: Drink Consumption</h3>
 
 <br><br>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="45%" height="45%">
@@ -27,10 +30,6 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" width="45%" height="45%">
 <br><br>
 
-<h3>Analysis</h3>
-
-As it turns out turns out, liquor sales do go up in warmer temperatures. A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°.  
-<h3>Correlation Testing: Drink Consumption</h3>
 
 
 | Spearmanr: Number of Gallons |
