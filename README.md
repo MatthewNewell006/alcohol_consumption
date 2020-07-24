@@ -22,7 +22,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 
 <h3>Correlation Testing: Drink Consumption</h3>
 
-<h3>Beer</h3>
+<h3><li>Beer</li></h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" width="50%" height="50%">
 
 <h3>Wine</h3>
