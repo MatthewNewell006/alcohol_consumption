@@ -11,7 +11,7 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_annual_gallons.jpg" alt="alt text" width="45%" height="45%">
 
-
+| Beer |
 | MannWhitneyU | Pearsonr | Spearmanr | Description |
 | --- | --- | --- | --- |
 | Statisitc | Statistic | Statisitc | Statistic |
