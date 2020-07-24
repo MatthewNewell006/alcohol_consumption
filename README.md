@@ -14,11 +14,12 @@ The process of finding adequate data to compare how temperature effects liquor s
 
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
 <br><br>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/combined_drinks.jpg" alt="alt text" width="45%" height="45%">
+<br><br>
 
 <h3>Analysis</h3>
 
 <li>A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°</li>  
-<br><br>
 
 <h3>Correlation Testing: Drink Consumption</h3>
 
