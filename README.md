@@ -74,7 +74,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 | Wine: (-0.28972604526774554, 3.337259516630482e-06) |
 | Shots: (-0.4066398894076336, 2.4714372269605796e-11) |
 
-<ul><b>Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.</b></ul>
+<b>Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.</b>
 
 <br><br>
 
