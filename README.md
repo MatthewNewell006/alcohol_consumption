@@ -37,9 +37,7 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 <br><br>
 <h3>PDF</h3>
 <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/probability_density_function.jpg" width="50%" height="50%">
-<br><br>
-
-Using a Probability Density Function, I was able to show the distribution of this information which is in fact a Normal Distribution
+<ul>Using a Probability Density Function, I was able to show the distribution of this information which is in fact a Normal Distribution.</ul>
 
 <h3>Corellation Significance</h3>
 
