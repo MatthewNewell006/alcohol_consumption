@@ -13,6 +13,16 @@ From cocktails to craft brews, the "art of the drink" is a way of life for some,
 
 Drinks Consumed:
 | MannWhitneyU |
-| --- | --- | --- |
-| Statisitc (Beer): 0.0 | Statistic (Wine): 14136.0 | Statisitc (Shots): 929.0 |
-| Pvalue (Beer): 1.955263257631872e-83 | Pvalue (Wine): 3.939313034921851e-26 | Pvalue (Shots): 1.2869623103039633e-78 |
+| --- |
+| Statisitc (Beer): 0.0 |
+| Pvalue (Beer): 1.955263257631872e-83 |
+| Statistic (Wine): 14136.0 |
+| Pvalue (Wine): 3.939313034921851e-26 |
+| Statisitc (Shots): 929.0 |
+| Pvalue (Shots): 1.2869623103039633e-78 |
+
+
+
+
+
+ Pearsonr | Spearmanr |
