@@ -6,14 +6,15 @@
 From cocktails to craft brews, the "art of the drink" is a way of life for some, a pitfall for others, but coveted by many. Where is the line bewteen creation and consumption? What allows some to maintian a responsible approach to alcohol while others simply lose themelves in it? I wil be looking into the rate of consumptions in both warm and cold climates. Do the "dog days of summer" attribute to the mentality of "cracking open a cold one"? Or does life in cooler regions make you want to bundle up and get down? Here I will being taking a look at alcohol consumption at different temperatures to see if there is a pattern.
 <br><br>
 
-<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
-
-
 <b>Data Mining</b>
 <br><br>
 
-
+The process of finding adequate data to compare how temperature effects liquor sales was daunting. The information was spoty at best across multiple data sites like Kaggle and Data.Gov. I found a lot of insufficient data and most of it pertained to a global parsing. I was looking for something pertaining to the United States. I finally found info that I was looking for and proceeded to streamline it best I could. Originaly I was going to compare amount of sales against temperatures in every state. However looking for a munging took up most of the time to simply attain a solid comoparison.
 <br><br>
+<img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/gallons_total.jpg" alt="alt text" width="45%" height="45%">
+<br><br>
+
+
 
 | Organize  |
 | --- |
