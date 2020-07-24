@@ -17,7 +17,7 @@ The data still had some areas of no record. I'm not sure where this inconsisiten
 
 <h3>Analysis</h3>
 
-As it turns out turns out, liquor sales do go up in warmer temperatures. A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°.  
+<li>A closer inspections reveals that the ideal temperature for the most sales of beer, wine, and liquor is 102°</li>  
 <h3>Correlation Testing: Drink Consumption</h3>
 
 <br><br>
@@ -67,7 +67,7 @@ As it turns out turns out, liquor sales do go up in warmer temperatures. A close
 | Shots: (-0.4066398894076336, 2.4714372269605796e-11) |
 <br><br>
 
-<li>Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.</>
+Performing a couple of correlation tests I was able to deduce that there is a good significance between the amount of alcohol comsumed as it pertains to how high or low the temperature is.
 
 
 <h3>Conclusion</h3>
