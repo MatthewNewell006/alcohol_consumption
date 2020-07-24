@@ -71,15 +71,15 @@ Performing a couple of correlation tests I was able to deduce that there is a go
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Snow" style="width:100%">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Snow" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" style="width:100%">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:100%">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:100%">
+    <img src="https://github.com/MatthewNewell006/alcohol_consumption/blob/master/img/scatter_beer_gallons.jpg" alt="Mountains" style="width:25%">
   </div>
 </div>
