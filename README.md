@@ -22,7 +22,7 @@ The process of finding adequate data to compare how temperature effects liquor s
 
 <li>A closer inspection reveals that the ideal temperature for the most sales of beer, wine, and liquor is 94°</li>  
 
-<h3>Correlation Testing: Drink Consumption</h3>
+<h3>Drink Consumption</h3>
 
 <h3><ul>Beer</ul></h3>
 <li>Total Drinks/Gallons/Average Gallons Per Capita: 443.26, 1.87, 1.17</li>
